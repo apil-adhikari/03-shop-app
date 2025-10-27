@@ -50,7 +50,7 @@ class _HomePageState extends State<HomePage> {
                   padding: const EdgeInsets.all(16.0),
                   child: Text(
                     "Shose\nCollections",
-                    style: TextStyle(fontWeight: FontWeight.w900, fontSize: 32),
+                    style: Theme.of(context).textTheme.titleLarge,
                   ),
                 ),
                 Expanded(
