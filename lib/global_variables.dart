@@ -49,13 +49,13 @@ final products = [
   },
 ];
 
-final cart = [
-  {
-    'id': 3,
-    'title': 'Men\'s Kappa Shoes',
-    'price': 44.21,
-    'sizes': [8, 9, 10, 11],
-    'company': 'Kappa',
-    'imageUrl': 'assets/images/kappa-shoes.png',
-  },
-];
+// final cart = [
+//   {
+//     'id': 3,
+//     'title': 'Men\'s Kappa Shoes',
+//     'price': 44.21,
+//     'size': 8,
+//     'company': 'Kappa',
+//     'imageUrl': 'assets/images/kappa-shoes.png',
+//   },
+// ];
