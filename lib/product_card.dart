@@ -6,6 +6,9 @@ class ProductCard extends StatelessWidget {
   final String image;
   final Color containerBackgroundColor;
 
+  /// A reusable ProductCard widget to display product information.
+  /// It takes title, price, image URL, and background color as parameters.
+  /// This widget is used in the ProductList to show individual products.
   const ProductCard({
     super.key,
     required this.title,
